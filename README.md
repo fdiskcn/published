@@ -1,17 +1,17 @@
 # published
 
-公开仓，按**产品 / 平台**分类存放可外发的程序包。源码仍在各私有仓，zip/tar 只走 Release，不进 git。
+公开仓，按产品 / 平台分类存放可外发的程序包。源码仍在各私有仓。
 
 ## 产品目录
 
-| 产品 | 分类 | 平台 | 目录 |
+| 产品 | 说明 | 目录 |
 | --- | --- | --- | --- |
-| JK-Tools | desktop | Windows x64、Linux x86_64 | [catalog/jk-tools.md](catalog/jk-tools.md) |
+| JK-Tools | Windows / Linux 便携包 | [catalog/jk-tools.md](catalog/jk-tools.md) |
 
-## 文件命名
+## 最新：JK-Tools v0.0.2.3
 
-`{product}-{version}-{platform}-{arch}.{ext}`
+- Windows x64：[jk-tools-v0.0.2.3-windows-x64.zip](https://github.com/fdiskcn/published/releases/download/jk-tools-v0.0.2.3/jk-tools-v0.0.2.3-windows-x64.zip)
+- Linux x86_64：[jk-tools-v0.0.2.3-linux-x86_64.tar.gz](https://github.com/fdiskcn/published/releases/download/jk-tools-v0.0.2.3/jk-tools-v0.0.2.3-linux-x86_64.tar.gz)
+- 校验：[jk-tools-v0.0.2.3.sha256](https://github.com/fdiskcn/published/releases/download/jk-tools-v0.0.2.3/jk-tools-v0.0.2.3.sha256)
 
-例：`jk-tools-v0.0.2.3-windows-x64.zip`、`jk-tools-v0.0.2.3-linux-x86_64.tar.gz`，另附 `{product}-{version}.sha256`。
-
-标签：`{product}-{version}`，例如 `jk-tools-v0.0.2.3`。
+标签约定：{product}-{version}，例如 jk-tools-v0.0.2.3。不要把 zip/tar 推进 git。
