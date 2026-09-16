@@ -1,6 +1,7 @@
 # JK-Tools
 
 便携包目录。源码在私有仓，不在本仓。
+Release 页上的 Source code (zip) 指向空标签，不要下载。
 
 ## v0.0.2.3
 
