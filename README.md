@@ -1,21 +1,17 @@
 # published
 
-公开仓，只存可以外发的程序包（GitHub Release 资产）。源码仍在各私有仓。
+公开仓，按**产品 / 平台**分类存放可外发的程序包。源码仍在各私有仓，zip/tar 只走 Release，不进 git。
 
-Public binaries only. Source stays in private repositories.
+## 产品目录
 
-## 标签约定
+| 产品 | 分类 | 平台 | 目录 |
+| --- | --- | --- | --- |
+| JK-Tools | desktop | Windows x64、Linux x86_64 | [catalog/jk-tools.md](catalog/jk-tools.md) |
 
-`{product}-v{version}`，例如 `jk-tools-v0.0.2.3`。一个仓可挂多个产品；不要把源码或 zip 推进 git。
+## 文件命名
 
-## JK-Tools
+`{product}-{version}-{platform}-{arch}.{ext}`
 
-对应私有仓 [`fdiskcn/jk-tools`](https://github.com/fdiskcn/jk-tools) 已打好的便携包。公开发布后会出现：
+例：`jk-tools-v0.0.2.3-windows-x64.zip`、`jk-tools-v0.0.2.3-linux-x86_64.tar.gz`，另附 `{product}-{version}.sha256`。
 
-- 标签 `jk-tools-v0.0.2.3`
-- `JK-Tools-v0.0.2.3-windows.zip`
-- `JK-Tools-v0.0.2.3-linux-x86_64.tar.gz`
-
-Windows：解压后运行 `JK-Tools.exe`。Linux（Ubuntu 24.04+ x86_64）：`tar xzf … && cd JK-Tools && ./JK-Tools --smoke`。
-
-私有仓已加 `Mirror to published` workflow；跨仓上传需要在 `jk-tools` 仓库 Settings → Secrets 里放一条能写本仓的 `PUBLISHED_TOKEN`，或本机 `gh auth login --with-token` 后手动 `gh release upload`。
+标签：`{product}-{version}`，例如 `jk-tools-v0.0.2.3`。
