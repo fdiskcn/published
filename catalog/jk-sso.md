@@ -7,7 +7,7 @@ Release 页上的 Source code (zip) 指向空标签，不要下载。
 
 | 分类 | 平台 | 文件 | 校验 |
 | --- | --- | --- | --- |
-| python | any (Python ≥ 3.13) | [jk-sso-v0.1.0-py3-none-any.whl](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.1.0/jk-sso-v0.1.0-py3-none-any.whl) | [sha256](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.1.0/jk-sso-v0.1.0.sha256) |
+| python | any (Python ≥ 3.13) | [jk_sso-0.1.0-py3-none-any.whl](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.1.0/jk_sso-0.1.0-py3-none-any.whl) | [sha256](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.1.0/jk-sso-v0.1.0.sha256) |
 | debian13 | Debian 13 amd64 安装资产 | [jk-sso-v0.1.0-debian13.tar.gz](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.1.0/jk-sso-v0.1.0-debian13.tar.gz) | [sha256](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.1.0/jk-sso-v0.1.0.sha256) |
 
 Release：https://github.com/fdiskcn/published/releases/tag/jk-sso-v0.1.0
