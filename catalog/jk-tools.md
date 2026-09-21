@@ -7,7 +7,7 @@ Release 页上的 Source code (zip) 指向空标签，不要下载。
 
 | 分类 | 平台 | 文件 | 校验 |
 | --- | --- | --- | --- |
-| desktop | Windows x64 | [jk-tools-v0.0.2.3-windows-x64.zip](https://github.com/fdiskcn/published/releases/download/jk-tools-v0.0.2.3/jk-tools-v0.0.2.3-windows-x64.zip) | [sha256](https://github.com/fdiskcn/published/releases/download/jk-tools-v0.0.2.3/jk-tools-v0.0.2.3.sha256) |
-| desktop | Linux x86_64 (Ubuntu 24.04+) | [jk-tools-v0.0.2.3-linux-x86_64.tar.gz](https://github.com/fdiskcn/published/releases/download/jk-tools-v0.0.2.3/jk-tools-v0.0.2.3-linux-x86_64.tar.gz) | [sha256](https://github.com/fdiskcn/published/releases/download/jk-tools-v0.0.2.3/jk-tools-v0.0.2.3.sha256) |
+| desktop | Windows x64 | [jk-tools-0.0.2.3-windows-x64.zip](https://github.com/fdiskcn/published/releases/download/jk-tools-0.0.2.3/jk-tools-0.0.2.3-windows-x64.zip) | [sha256](https://github.com/fdiskcn/published/releases/download/jk-tools-0.0.2.3/jk-tools-0.0.2.3.sha256) |
+| desktop | Linux x86_64 (Ubuntu 24.04+) | [jk-tools-0.0.2.3-linux-x86_64.tar.gz](https://github.com/fdiskcn/published/releases/download/jk-tools-0.0.2.3/jk-tools-0.0.2.3-linux-x86_64.tar.gz) | [sha256](https://github.com/fdiskcn/published/releases/download/jk-tools-0.0.2.3/jk-tools-0.0.2.3.sha256) |
 
-Release：https://github.com/fdiskcn/published/releases/tag/jk-tools-v0.0.2.3
+Release：https://github.com/fdiskcn/published/releases/tag/jk-tools-0.0.2.3

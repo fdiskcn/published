@@ -13,8 +13,8 @@ GitHub 会给每个 Release 自动生成 Source code (zip/tar.gz)。
 
 ## 最新：JK-Tools v0.0.2.3
 
-- Windows x64：[jk-tools-v0.0.2.3-windows-x64.zip](https://github.com/fdiskcn/published/releases/download/jk-tools-v0.0.2.3/jk-tools-v0.0.2.3-windows-x64.zip)
-- Linux x86_64：[jk-tools-v0.0.2.3-linux-x86_64.tar.gz](https://github.com/fdiskcn/published/releases/download/jk-tools-v0.0.2.3/jk-tools-v0.0.2.3-linux-x86_64.tar.gz)
-- 校验：[jk-tools-v0.0.2.3.sha256](https://github.com/fdiskcn/published/releases/download/jk-tools-v0.0.2.3/jk-tools-v0.0.2.3.sha256)
+- Windows x64：[jk-tools-0.0.2.3-windows-x64.zip](https://github.com/fdiskcn/published/releases/download/jk-tools-0.0.2.3/jk-tools-0.0.2.3-windows-x64.zip)
+- Linux x86_64：[jk-tools-0.0.2.3-linux-x86_64.tar.gz](https://github.com/fdiskcn/published/releases/download/jk-tools-0.0.2.3/jk-tools-0.0.2.3-linux-x86_64.tar.gz)
+- 校验：[jk-tools-0.0.2.3.sha256](https://github.com/fdiskcn/published/releases/download/jk-tools-0.0.2.3/jk-tools-0.0.2.3.sha256)
 
-标签约定：{product}-{version}，例如 jk-tools-v0.0.2.3。不要把 zip/tar 推进 git。
+标签约定：{product}-{version}，例如 jk-tools-0.0.2.3。不要把 zip/tar 推进 git。
