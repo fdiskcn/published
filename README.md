@@ -11,10 +11,10 @@ GitHub 会给每个 Release 自动生成 Source code (zip/tar.gz)。
 | --- | --- | --- |
 | JK-Tools | Windows / Linux 便携包 | [catalog/jk-tools.md](catalog/jk-tools.md) |
 
-## 最新：JK-Tools v0.0.2.7
+## 最新：JK-Tools v0.0.2.8
 
-- Windows x64：[jk-tools-0.0.2.7-windows-x64.zip](https://github.com/fdiskcn/published/releases/download/jk-tools-0.0.2.7/jk-tools-0.0.2.7-windows-x64.zip)
-- Linux x86_64：[jk-tools-0.0.2.7-linux-x86_64.tar.gz](https://github.com/fdiskcn/published/releases/download/jk-tools-0.0.2.7/jk-tools-0.0.2.7-linux-x86_64.tar.gz)
-- 校验：[jk-tools-0.0.2.7.sha256](https://github.com/fdiskcn/published/releases/download/jk-tools-0.0.2.7/jk-tools-0.0.2.7.sha256)
+- Windows x64：[jk-tools-0.0.2.8-windows-x64.zip](https://github.com/fdiskcn/published/releases/download/jk-tools-0.0.2.8/jk-tools-0.0.2.8-windows-x64.zip)
+- Linux x86_64：[jk-tools-0.0.2.8-linux-x86_64.tar.gz](https://github.com/fdiskcn/published/releases/download/jk-tools-0.0.2.8/jk-tools-0.0.2.8-linux-x86_64.tar.gz)
+- 校验：[jk-tools-0.0.2.8.sha256](https://github.com/fdiskcn/published/releases/download/jk-tools-0.0.2.8/jk-tools-0.0.2.8.sha256)
 
-标签约定：{product}-{version}，例如 jk-tools-0.0.2.7。不要把 zip/tar 推进 git。
+标签约定：{product}-{version}，例如 jk-tools-0.0.2.8。不要把 zip/tar 推进 git。
