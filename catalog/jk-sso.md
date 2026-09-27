@@ -3,11 +3,11 @@
 Debian 13 amd64 安装包目录。源码在私有仓，不在本仓。
 Release 页上的 Source code (zip) 指向空标签，不要下载。
 
-## v0.2.4
+## v0.2.5
 
 | 分类 | 平台 | 文件 | 校验 |
 | --- | --- | --- | --- |
-| python | any (Python ≥ 3.13) | [jk_sso-0.2.4-py3-none-any.whl](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.2.4/jk_sso-0.2.4-py3-none-any.whl) | [sha256](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.2.4/jk-sso-v0.2.4.sha256) |
-| debian13 | Debian 13 amd64 安装资产 | [jk-sso-v0.2.4-debian13.tar.gz](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.2.4/jk-sso-v0.2.4-debian13.tar.gz) | [sha256](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.2.4/jk-sso-v0.2.4.sha256) |
+| python | any (Python ≥ 3.13) | [jk_sso-0.2.5-py3-none-any.whl](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.2.5/jk_sso-0.2.5-py3-none-any.whl) | [sha256](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.2.5/jk-sso-v0.2.5.sha256) |
+| debian13 | Debian 13 amd64 安装资产 | [jk-sso-v0.2.5-debian13.tar.gz](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.2.5/jk-sso-v0.2.5-debian13.tar.gz) | [sha256](https://github.com/fdiskcn/published/releases/download/jk-sso-v0.2.5/jk-sso-v0.2.5.sha256) |
 
-Release：https://github.com/fdiskcn/published/releases/tag/jk-sso-v0.2.4
+Release：https://github.com/fdiskcn/published/releases/tag/jk-sso-v0.2.5
